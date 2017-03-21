@@ -1,0 +1,12 @@
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\OOP_Laba4\OOP_Laba4\bin\Debug\OOP_Laba4.exe.config
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\OOP_Laba4\OOP_Laba4\bin\Debug\OOP_Laba4.exe
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\OOP_Laba4\OOP_Laba4\bin\Debug\OOP_Laba4.pdb
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\OOP_Laba4\OOP_Laba4\obj\Debug\OOP_Laba4.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\OOP_Laba4\OOP_Laba4\obj\Debug\OOP_Laba4.exe
+E:\УЧЁБА\2 Курс\2 семестр\ООП\Лабы\OOP_Laba4\OOP_Laba4\obj\Debug\OOP_Laba4.pdb
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba4\OOP_Laba4\bin\Debug\OOP_Laba4.exe.config
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba4\OOP_Laba4\obj\Debug\OOP_Laba4.exe
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba4\OOP_Laba4\obj\Debug\OOP_Laba4.pdb
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba4\OOP_Laba4\obj\Debug\OOP_Laba4.csprojResolveAssemblyReference.cache
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba4\OOP_Laba4\bin\Debug\OOP_Laba4.exe
+E:\УЧЁБА\2 К\2с\ООП\Лабы\OOP_Laba4\OOP_Laba4\bin\Debug\OOP_Laba4.pdb
